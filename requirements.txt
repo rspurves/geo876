@@ -2,3 +2,4 @@ matplotlib==3.2.1
 numpy==1.18.5
 pandas==1.0.4
 seaborn==0.10.1
+ipyleaflet==0.15.0
